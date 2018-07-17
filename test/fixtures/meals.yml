@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  resteraunt_id: one
+  type: 
+  price: 1.5
+
+two:
+  resteraunt_id: two
+  type: 
+  price: 1.5
